@@ -41,11 +41,11 @@ I've worked in building construction engineering as an engineer 👷 for 13 year
 I like coding in front-end as well as in back-end.<br/>
 👯 So, I'm looking to collaborate on interesting projects, with open-minded people in a good working atmosphere.<br/> 
 Interested in my profile ? - Do not hesitate to contact me !
-<!--
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=augustin-mbarga&theme=blue-green" alt="Github stats" />
 </div>
--->
+
 <!-- Part 2 : End -->
 
 ---
@@ -104,12 +104,12 @@ Interested in my profile ? - Do not hesitate to contact me !
 <!-- Part 3 : End -->
 
 <!-- Most used languages  : to uncomment later after adding my public projects-->
-<!--
+
 <br />
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=augustin-mbarga&theme=blue-green&layout=compact"/>
 </div> 
--->
+
 
 
 
